@@ -1,3 +1,4 @@
 import cowsay
 n = str(input("enter txt: ")
-cowsay.daemon(f"{n}")
+cowsay.daemon(str(input("enter : ")))
+print("made by Ro706")
